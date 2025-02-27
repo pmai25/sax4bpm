@@ -1,12 +1,7 @@
->Note: This Github library includes the code implementation and supplementary materials for a paper submission to BPM 2025.
+>Note: This Github library includes the code implementation for a paper submission to BPM 2025.
 The content of the library was anonymized as instructed for the double-blind process. 
-While the implementation includes additional content that goes beyond the scope of the paper, direct links to the specific items
-relevant to the paper are the following:
->#### Causal Process Unification: Code implementation [Click here](https://anonymous.4open.science/r/causal-unification/XXXX-5/core/causal_process_discovery/causal_discovery.py)
->#### Supplementary Material [Click here](https://anonymous.4open.science/r/causal-unification/docs/source/supplementary.pdf)
-
-
-
+While the implementation includes additional content that goes beyond the scope of the paper, the specific
+code related to paper can be found under: **sax >> core >> causal_process_discovery >> causal_discovery.py**
 
 # Anonymous Lib <!--SAX4BPM-->
 
