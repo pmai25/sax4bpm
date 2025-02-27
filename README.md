@@ -1,5 +1,5 @@
 
-# SAX4BPM
+# Anonymous Lib <!--SAX4BPM-->
 
 
 <div align="center">
@@ -61,9 +61,9 @@ Finally, we can blend the discovery results using LLM-powered analysis of the di
 
 
 ## Related Papers
-
+<!--
 ### Causal Business Processes
 - F. Fournier, L. Limonad, I. Skarbovsky, Y. David, [The WHY in Business Processes: Discovery of Causal Execution Dependencies](https://arxiv.org/abs/2310.14975), arXix:2310.14975, 2024.
 
 ### Leveraging LLMs to explain Business Processes
-- D. Fahland, F. Fournier, L. Limonad, I. Skarbovsky, A. J. E. Swevels, [How well can large language models explain business processes?](https://arxiv.org/abs/2401.12846), arXiv:2401.12846, 2024.
+- D. Fahland, F. Fournier, L. Limonad, I. Skarbovsky, A. J. E. Swevels, [How well can large language models explain business processes?](https://arxiv.org/abs/2401.12846), arXiv:2401.12846, 2024.-->
